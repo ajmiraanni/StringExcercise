@@ -1,0 +1,15 @@
+{
+  "name": "stringexcercise",
+  "version": "1.0.0",
+  "description": "string excercise with git",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm start"
+  },
+  "author": "Ajmira akter anni",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
